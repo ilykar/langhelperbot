@@ -5,4 +5,4 @@ opencv-python-headless==4.10.0.84
 Pillow==10.4.0
 python-dotenv==1.0.0
 numpy==1.26.4
-google-cloud-vision==3.4.4
+tensorflow==2.15.0
